@@ -5,5 +5,7 @@ https://exercism.org/       Ejercicios para mejorar tu logica en varios lenguaje
 https://devchallenges.io/   Ejercicios practicos y un curso gratis de html css javascrip <br>
 https://javascript.info/    Desde lo basico hasta avanzado<br>
 https://rapidapi.com/       Pagina donde encontraras muchas Api's para tus proyectos <br>
+https://skeletonreact.com/  crea componentes para luego utilizarlo en tu aplicación
+https://www.hackerrank.com/  
 
 
