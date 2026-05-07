@@ -9,8 +9,18 @@ https://skeletonreact.com/  crea componentes para luego utilizarlo en tu aplicac
 https://www.hackerrank.com/  
 https://www.promptcowboy.ai/ crea prompts para utilizarlo en cualquier ia
 https://miro.com/login/  una pizarra para participar en equipo
-https://promptperfect.jina.ai/  crea prompt para utilizarlo en cualquier ia
+https://promptperfect.jina.ai/  crea prompt para utilizarlo en cualquier 
 
+https://color.adobe.com/
+https://colorhunt.co/
+https://www.khroma.co/
+
+https://www.khroma.co/
+https://www.khroma.co/
+https://trello.com/
+https://elementor.com/es/
+https://firehose.com/
+https://backlinko.com/tools/seo-checker
 
 
 
